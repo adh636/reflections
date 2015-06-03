@@ -5,3 +5,19 @@ It creates the .git file in your directory so that new commits can be created.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is a safe place where you can organize which changes you would like to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can just 'git add' one file fro your working directory to create a new commit, saving other files changed in the directory for subsequent commits.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you want to be able to build on and test out different versions of your code
+
+How do the diagrams help you visualize the branch structure?
+
+It's easier to see how and where the programs branches diverge.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The changes to both branches are combined into the specified branch.
