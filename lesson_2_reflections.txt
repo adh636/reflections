@@ -21,3 +21,7 @@ It's easier to see how and where the programs branches diverge.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The changes to both branches are combined into the specified branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It can save you time in seeing where there are changes and having to make them manually.  It also gives you access to all commits associated with each branch after the merge into 1 branch.
